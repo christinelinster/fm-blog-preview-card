@@ -19,7 +19,7 @@
 ### Links
 
 - Solution URL: [https://github.com/christinelinster/fm-blog-preview-card](https://github.com/christinelinster/fm-blog-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://christinelinster.github.io/fm-blog-preview-card/](https://christinelinster.github.io/fm-blog-preview-card/)
 
 ## My process
 
